@@ -16,10 +16,15 @@ Create base maps for garmin devices using openstreetmap
 Get coordinates from openstreetmap
 
   http://www.openstreetmap.org/export
-  
- | maxlat  |
-minlon |  | maxlon
- | minlat  |  
+
+
+ |  |  |
+------------ | ------------- | ------------- | -------------
+ | maxlat |  |
+minlon |  | maxlon |
+ | minlat |  |
+
+
  
 Arguments should be 
-  mapname minlon minlat maxlon maxlat
+  **mapname minlon minlat maxlon maxlat**
