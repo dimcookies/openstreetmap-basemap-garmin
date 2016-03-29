@@ -6,10 +6,12 @@ Create base maps for garmin devices using openstreetmap
   osmconvert: http://wiki.openstreetmap.org/wiki/Osmconvert
 
   mkgmap: http://www.mkgmap.org.uk/
+
+  phyghtmap: http://wiki.openstreetmap.org/wiki/Phyghtmap
   
 ##Configuration
 
-  Change OSMCONVERT_EXECUTABLE_PATH and MKGMAP_JAR_PATH 
+  Change OSMCONVERT_EXECUTABLE_PATH, MKGMAP_JAR_PATH, PHYGHTMAP_EXECUTABLE_PATH 
   
 ##Usage 
 
