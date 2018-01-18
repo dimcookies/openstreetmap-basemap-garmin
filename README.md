@@ -9,23 +9,23 @@ Create base maps for garmin devices using openstreetmap
 
   phyghtmap: http://wiki.openstreetmap.org/wiki/Phyghtmap
   
-##Configuration
+## Configuration
 
   Change OSMCONVERT_EXECUTABLE_PATH, MKGMAP_JAR_PATH, PHYGHTMAP_EXECUTABLE_PATH 
   
-##Usage 
+## Usage 
 
 Get coordinates from openstreetmap
 
   http://www.openstreetmap.org/export
 
 
- |  |  |
------------- | ------------- | ------------- | -------------
- | maxlat |  |
-minlon |  | maxlon |
- | minlat |  |
+```
+         maxlat 
+minlon           maxlon 
+         minlat 
 
+```
 
  
 Arguments should be 
